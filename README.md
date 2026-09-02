@@ -1,13 +1,3 @@
-<p align="center">
-  <img
-    src="./Bannur-Photo-Github.png"
-    alt="Tariqul Islam Howlader - GitHub Banner"
-    width="100%"
-  />
-</p>
-
-<!-- ===================================================== -->
-<!--                    PROFILE BANNER                     -->
 <!-- ===================================================== -->
 
 <p align="center">
