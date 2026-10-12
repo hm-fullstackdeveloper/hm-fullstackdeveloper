@@ -1,6 +1,6 @@
  <div align="center">
 
-<img src="Bannur-Photo-Github.png" />
+<img src="Bannur-Photo-Github.png" alt="Tariqul Islam Howlader GitHub Banner" width="100%" />
 
 # Hi 👋, I'm Tariqul Islam Howlader
 
@@ -10,12 +10,12 @@ Building modern, responsive, and user-friendly web applications.
 
 [![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/hm-fullstackdeveloper)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/)
-[![Email](https://img.shields.io/badge/Email-Contact%20Me-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:YOUR_EMAIL@example.com)
+[![Email](https://img.shields.io/badge/Email-Contact%20Me-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:hmtarek004@gmail.com)
 
 📍 Barishal, Bangladesh
- 
 
-  📧 Email: hmtarek004@gmail.com
+📧 Email: hmtarek004@gmail.com
+
 </div>
 
 ---
@@ -27,12 +27,13 @@ I'm Tariqul Islam Howlader, an aspiring Full-Stack Web Developer from Bangladesh
 - 🌱 Currently exploring **Full-Stack Web Development**
 - ⚛️ Building web applications with **Next.js, React, and TypeScript**
 - 🎨 Creating responsive user interfaces with **Tailwind CSS**
-- 🛒 Working on **BazarDor BD**, a Bangladeshi market-price website
+- 🛒 Building **BazarDor BD**, a Bangladeshi market-price website
 - 🏋️ Developing **FitLog Workout Planner**, a fitness and workout-planning application
 - 🔌 Exploring **REST APIs, Node.js, and Express.js**
-- 🗄️ Working with **MongoDB** and learning database integration
-- 🔐 Exploring authentication and secure user management with **Better Auth**
+- 🗄️ Learning database integration with **MongoDB**
+- 🔐 Exploring authentication and user management with **Better Auth**
 - 🎯 My goal is to become a professional **Full-Stack Web Developer**
+
 ## 🛠️ Skills & Technologies
 
 ### Languages
@@ -56,8 +57,10 @@ I'm Tariqul Islam Howlader, an aspiring Full-Stack Web Developer from Bangladesh
 ### Currently Exploring
 
 <p>
-  <img src="https://skillicons.dev/icons?i=nodejs,express,mongodb,mysql" alt="Node.js, Express, MongoDB and MySQL" />
+  <img src="https://skillicons.dev/icons?i=nodejs,express,mongodb,mysql" alt="Node.js, Express.js, MongoDB and MySQL" />
 </p>
+
+---
 
 ## 🚀 Featured Projects
 
@@ -71,9 +74,10 @@ A Bengali-language web application for exploring everyday product prices and pri
 
 **Tech Stack**
 
-`Next.js` `TypeScript` `Tailwind CSS`
+`Next.js` `React` `TypeScript` `Tailwind CSS` `MongoDB` `Better Auth` `HeroUI`
 
 **Highlights**
+
 - Product price information
 - Category-based browsing
 - Daily price-change indicators
@@ -92,9 +96,10 @@ A workout-planning application designed to help users explore workouts and organ
 
 **Tech Stack**
 
-`Next.js` `TypeScript` `Tailwind CSS` `daisyUI`
+`Next.js` `React` `TypeScript` `Tailwind CSS` `daisyUI`
 
 **Highlights**
+
 - Workout browsing and details
 - Personal workout planning
 - Saved and completed workouts
@@ -107,6 +112,8 @@ A workout-planning application designed to help users explore workouts and organ
 </td>
 </tr>
 </table>
+
+---
 
 ## 📊 GitHub Statistics
 
@@ -138,11 +145,12 @@ I'm always interested in learning, building projects, and connecting with other 
 
 - 💻 GitHub: [@hm-fullstackdeveloper](https://github.com/hm-fullstackdeveloper)
 - 💼 LinkedIn: [Connect with me](https://www.linkedin.com/)
+- 📧 Email: [hmtarek004@gmail.com](mailto:hmtarek004@gmail.com)
 
 <div align="center">
 
 ### 🌱 Learn. Build. Improve. Repeat.
 
-<i>Every project is an opportunity to learn something new.</i>
+*Every project is an opportunity to learn something new.*
 
 </div>
