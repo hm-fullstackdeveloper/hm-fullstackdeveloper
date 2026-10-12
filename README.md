@@ -12,8 +12,8 @@ Building modern, responsive, and user-friendly web applications.
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/)
 [![Email](https://img.shields.io/badge/Email-Contact%20Me-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:YOUR_EMAIL@example.com)
 
-📍 Bangladesh
-  📍 Bangladesh
+📍 Barishal, Bangladesh
+ 
 #Contect
   📧 Email: hmtarek004@gmail.com
 </div>
