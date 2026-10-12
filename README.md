@@ -22,16 +22,17 @@ Building modern, responsive, and user-friendly web applications.
 
 ## 👨‍💻 About Me
 
-Hi! I'm Tariqul Islam Howlader, an aspiring Full-Stack Web Developer from Bangladesh.
+I'm Tariqul Islam Howlader, an aspiring Full-Stack Web Developer from Bangladesh. I'm passionate about building modern, responsive, and user-friendly web applications using modern web technologies.
 
-I'm passionate about building modern, responsive, and user-friendly web applications. I enjoy learning new technologies and turning ideas into practical projects.
-
-- 🌱 Currently learning Full-Stack Web Development
-- ⚛️ Working with React, Next.js, TypeScript, and Tailwind CSS
-- 🛒 Building BazarDor BD, a Bangladeshi market-price website
-- 🏋️ Developing projects like FitLog Workout Planner
-- 🚀 Exploring APIs, databases, and modern web technologies
-- 🎯 My goal is to become a professional Full-Stack Web Developer
+- 🌱 Currently exploring **Full-Stack Web Development**
+- ⚛️ Building web applications with **Next.js, React, and TypeScript**
+- 🎨 Creating responsive user interfaces with **Tailwind CSS**
+- 🛒 Working on **BazarDor BD**, a Bangladeshi market-price website
+- 🏋️ Developing **FitLog Workout Planner**, a fitness and workout-planning application
+- 🔌 Exploring **REST APIs, Node.js, and Express.js**
+- 🗄️ Working with **MongoDB** and learning database integration
+- 🔐 Exploring authentication and secure user management with **Better Auth**
+- 🎯 My goal is to become a professional **Full-Stack Web Developer**
 ## 🛠️ Skills & Technologies
 
 ### Languages
