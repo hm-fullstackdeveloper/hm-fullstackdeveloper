@@ -4,7 +4,7 @@
 
 # Hi 👋, I'm Tariqul Islam Howlader
 
-### Full-Stack Web Development Learner | Front-End Developer
+### Full-Stack Web Development | Front-End Developer
 
 Building modern, responsive, and user-friendly web applications.
 
@@ -14,7 +14,7 @@ Building modern, responsive, and user-friendly web applications.
 
 📍 Barishal, Bangladesh
  
-#Contect
+
   📧 Email: hmtarek004@gmail.com
 </div>
 
