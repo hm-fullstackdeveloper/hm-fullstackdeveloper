@@ -1,6 +1,6 @@
  <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0F172A,50:2563EB,100:06B6D4&height=200&section=header&text=Tariqul%20Islam%20Howlader&fontSize=34&fontColor=FFFFFF&animation=fadeIn&fontAlignY=35&desc=Full-Stack%20Web%20Development%20Learner%20%7C%20Front-End%20Developer&descAlignY=58&descSize=14" width="100%" alt="Tariqul Islam Howlader GitHub Banner" />
+<img src="Bannur-Photo-Github.png" />
 
 # Hi 👋, I'm Tariqul Islam Howlader
 
