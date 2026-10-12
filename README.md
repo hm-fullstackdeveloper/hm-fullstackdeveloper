@@ -1,338 +1,147 @@
-<!-- ===================================================== -->
+ <div align="center">
 
-<p align="center">
-  <img
-    src="./Bannur-Photo-Github.png"
-    alt="Tariqul Islam Howlader - GitHub Banner"
-    width="100%"
-  />
-</p>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0F172A,50:2563EB,100:06B6D4&height=200&section=header&text=Tariqul%20Islam%20Howlader&fontSize=34&fontColor=FFFFFF&animation=fadeIn&fontAlignY=35&desc=Full-Stack%20Web%20Development%20Learner%20%7C%20Front-End%20Developer&descAlignY=58&descSize=14" width="100%" alt="Tariqul Islam Howlader GitHub Banner" />
 
-<!-- ===================================================== -->
-<!--                     INTRODUCTION                      -->
-<!-- ===================================================== -->
+# Hi 👋, I'm Tariqul Islam Howlader
 
-<h1 align="center">Hi 👋, I'm Tariqul Islam Howlader</h1>
+### Full-Stack Web Development Learner | Front-End Developer
 
-<h3 align="center">
-  Full-Stack Web Development Learner | Front-End Developer
-</h3>
+Building modern, responsive, and user-friendly web applications.
 
-<p align="center">
-  <b>Building modern, responsive and user-friendly web applications.</b>
-</p>
+[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/hm-fullstackdeveloper)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/)
+[![Email](https://img.shields.io/badge/Email-Contact%20Me-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:YOUR_EMAIL@example.com)
 
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=hmtarek004-pixel&label=Profile%20Views&color=6C63FF&style=flat" />
-</p>
+📍 Bangladesh
+
+</div>
 
 ---
 
-# 🎯 Career Objective
+## 👨‍💻 About Me
 
-I am a passionate and dedicated web development learner focused on
-becoming a professional **Full-Stack Web Developer**.
+I'm a dedicated web development learner focused on building practical projects and improving my front-end and full-stack development skills.
 
-Currently, I am strengthening my skills in **Front-End Development**
-and gradually expanding my knowledge toward backend development,
-databases, APIs and deployment.
-
-My goal is to build scalable, responsive and user-friendly web
-applications while continuously improving my problem-solving and
-programming skills.
-
----
-
-# 👨‍💻 About Me
+I enjoy creating responsive user interfaces, working with modern JavaScript technologies, and learning how to build complete web applications.
 
 - 🌱 Currently learning **Full-Stack Web Development**
-- 💻 Focused on **Front-End Development**
-- ⚛️ Learning **React & modern JavaScript ecosystem**
-- 🔷 Learning **TypeScript**
-- 🎨 Interested in UI/UX and responsive web design
-- 🚀 Exploring modern deployment platforms
-- 🧠 Practicing problem solving and competitive programming
-- 📚 Always learning new technologies
-- 🎯 Goal: Become a professional **Full-Stack Web Developer**
+- ⚛️ Practicing **React, Next.js, and TypeScript**
+- 🛒 Building **BazarDor BD**, a Bangladeshi market-price website
+- 🏋️ Working on projects such as **FitLog Workout Planner**
+- 🎨 Interested in responsive design and user experience
+- 🚀 Exploring APIs, databases, and deployment
+- 🎯 Goal: Become a professional Full-Stack Web Developer
 
----
+## 🛠️ Skills & Technologies
 
-# 🌐 Follow Me / Connect With Me
+### Languages
 
-<p align="center">
-
-<a href="https://github.com/hmtarek004-pixel">
-  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
-</a>
-
-<a href="YOUR_LINKEDIN_URL">
-  <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
-</a>
-
+<p>
+  <img src="https://skillicons.dev/icons?i=html,css,js,ts" alt="HTML, CSS, JavaScript and TypeScript" />
 </p>
 
----
+### Front-End Development
 
-# 💻 Languages
-
-<p align="center">
-
-<img src="https://skillicons.dev/icons?i=html,css,js,ts" />
-
+<p>
+  <img src="https://skillicons.dev/icons?i=react,nextjs,tailwind,vite" alt="React, Next.js, Tailwind CSS and Vite" />
 </p>
 
-<p align="center">
+### Tools & Technologies
 
-<img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
-<img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" />
-<img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
-<img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white" />
-
+<p>
+  <img src="https://skillicons.dev/icons?i=git,github,vscode,npm,figma" alt="Git, GitHub, VS Code, npm and Figma" />
 </p>
 
----
+### Currently Exploring
 
-# 🎨 CSS Frameworks & Libraries
-
-<p align="center">
-
-<img src="https://skillicons.dev/icons?i=tailwind,bootstrap,sass" />
-
+<p>
+  <img src="https://skillicons.dev/icons?i=nodejs,express,mongodb,mysql" alt="Node.js, Express, MongoDB and MySQL" />
 </p>
 
-- Tailwind CSS
-- Bootstrap
-- Sass / SCSS
-- Responsive Web Design
+## 🚀 Featured Projects
+
+<table>
+<tr>
+<td width="50%" valign="top">
+
+### 🛒 BazarDor BD
+
+A Bengali-language web application for exploring everyday product prices and price changes in Bangladesh.
+
+**Tech Stack**
+
+`Next.js` `TypeScript` `Tailwind CSS`
+
+**Highlights**
+- Product price information
+- Category-based browsing
+- Daily price-change indicators
+- Responsive user interface
+
+[🌐 Live Demo](https://bazar-dor-bd-app-two.vercel.app/)
+
+[📂 Source Code](https://github.com/hm-fullstackdeveloper/bazar-dor-bd-app-A7)
+
+</td>
+<td width="50%" valign="top">
+
+### 🏋️ FitLog Workout Planner
+
+A workout-planning application designed to help users explore workouts and organize personal fitness plans.
+
+**Tech Stack**
+
+`Next.js` `TypeScript` `Tailwind CSS` `daisyUI`
+
+**Highlights**
+- Workout browsing and details
+- Personal workout planning
+- Saved and completed workouts
+- Responsive interface
+
+[🌐 Live Demo](https://fitlog-workout-planner-next-js-app-two.vercel.app/)
+
+[📂 Source Code](https://github.com/hm-fullstackdeveloper/fitlog-workout-planner-next.js-app-A6)
+
+</td>
+</tr>
+</table>
+
+## 📊 GitHub Statistics
+
+<div align="center">
+
+<img height="165" src="https://github-readme-stats.vercel.app/api?username=hm-fullstackdeveloper&show_icons=true&hide_border=true&rank_icon=github" alt="GitHub Statistics" />
+
+<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=hm-fullstackdeveloper&layout=compact&hide_border=true" alt="Most Used Languages" />
+
+<br/>
+
+<img src="https://streak-stats.demolab.com?user=hm-fullstackdeveloper&hide_border=true" alt="GitHub Contribution Streak" />
+
+</div>
+
+## 📈 Contribution Activity
+
+<div align="center">
+
+[![GitHub Activity](https://github-readme-activity-graph.vercel.app/graph?username=hm-fullstackdeveloper&theme=github-compact&hide_border=true)](https://github.com/hm-fullstackdeveloper)
+
+</div>
 
 ---
 
-# ⚡ JavaScript Frameworks & Libraries
+## 🤝 Let's Connect
 
-<p align="center">
+I'm always interested in learning, building projects, and connecting with other developers.
 
-<img src="https://skillicons.dev/icons?i=react,nextjs,vite" />
+- 💻 GitHub: [@hm-fullstackdeveloper](https://github.com/hm-fullstackdeveloper)
+- 💼 LinkedIn: [Connect with me](https://www.linkedin.com/)
 
-</p>
+<div align="center">
 
-### Technologies
+### 🌱 Learn. Build. Improve. Repeat.
 
-- React
-- Next.js
-- Vite
-- React Router
-- REST API Integration
-- Modern JavaScript / ES6+
+<i>Every project is an opportunity to learn something new.</i>
 
----
-
-# 🔷 TypeScript
-
-<p align="center">
-
-<img src="https://skillicons.dev/icons?i=ts" />
-
-</p>
-
-- Type-safe JavaScript development
-- Interfaces
-- Types
-- Generics
-- Union Types
-- TypeScript with React
-
----
-
-# 🗄️ Database & Data Modeling
-
-<p align="center">
-
-<img src="https://skillicons.dev/icons?i=mongodb,mysql,postgresql" />
-
-</p>
-
-### Learning / Exploring
-
-- MongoDB
-- MySQL
-- PostgreSQL
-- Database Design
-- Data Modeling
-- CRUD Operations
-- Basic Database Relationships
-
----
-
-# 🚀 Deployment Platforms
-
-<p align="center">
-
-<img src="https://skillicons.dev/icons?i=vercel,netlify,github" />
-
-</p>
-
-- Vercel
-- Netlify
-- GitHub Pages
-- Deployment & Hosting
-- Environment Variables
-
----
-
-# 🎨 Design & Graphics
-
-<p align="center">
-
-<img src="https://skillicons.dev/icons?i=figma,ps,ai" />
-
-</p>
-
-- Figma
-- UI Design
-- Basic UX Principles
-- Web Layout Design
-- Graphics & Visual Design
-
----
-
-# 🛠️ Tools & Technologies
-
-<p align="center">
-
-<img src="https://skillicons.dev/icons?i=git,github,vscode,npm,postman" />
-
-</p>
-
-### Tools
-
-- Git
-- GitHub
-- VS Code
-- npm
-- Postman
-- Chrome DevTools
-- GitHub Copilot
-
----
-
-# 📊 GitHub Statistics & Analysis
-
-<p align="center">
-
-<img
-  src="https://github-readme-stats.vercel.app/api?username=hmtarek004-pixel&show_icons=true&theme=tokyonight&hide_border=true"
-  alt="GitHub Statistics"
-/>
-
-</p>
-
----
-
-# 🔥 Repository Stats & Streak
-
-<p align="center">
-
-<img
-  src="https://github-readme-streak-stats.herokuapp.com/?user=hmtarek004-pixel&theme=tokyonight&hide_border=true"
-  alt="GitHub Streak"
-/>
-
-</p>
-
----
-
-# 📈 Most Used Languages
-
-<p align="center">
-
-<img
-  src="https://github-readme-stats.vercel.app/api/top-langs/?username=hmtarek004-pixel&layout=compact&theme=tokyonight&hide_border=true"
-  alt="Top Languages"
-/>
-
-</p>
-
----
-
-# 🐍 GitHub Contribution
-
-<p align="center">
-
-<img
-  src="https://raw.githubusercontent.com/hmtarek004-pixel/hmtarek004-pixel/output/github-contribution-grid-snake.svg"
-  alt="GitHub Contribution Snake"
-/>
-
-</p>
-
----
-
-# 📦 Repository Stats
-
-<p align="center">
-
-<img src="https://img.shields.io/github/public-repos/hmtarek004-pixel?style=for-the-badge&logo=github&label=Public%20Repositories" />
-
-<img src="https://img.shields.io/github/followers/hmtarek004-pixel?style=for-the-badge&logo=github&label=Followers" />
-
-<img src="https://img.shields.io/github/stars/hmtarek004-pixel?style=for-the-badge&logo=github&label=Total%20Stars" />
-
-</p>
-
----
-
-# 🚀 Featured Projects
-
-## 🌐 Project 01 — Your Project Name
-
-> A short description of your project.
-
-### 🛠️ Technologies
-
-`HTML` `CSS` `JavaScript`
-
-### ✨ Features
-
-- Responsive design
-- User-friendly interface
-- Modern UI
-- Mobile responsive
-
-🔗 **Live Demo:** YOUR_LIVE_LINK
-
-🔗 **Repository:** YOUR_REPOSITORY_LINK
-
----
-
-## ⚛️ Project 02 — Your Project Name
-
-> A modern web application built with React.
-
-### 🛠️ Technologies
-
-`React` `TypeScript` `Tailwind CSS`
-
-### ✨ Features
-
-- Responsive UI
-- Component-based architecture
-- API integration
-- Modern design
-
-🔗 **Live Demo:** YOUR_LIVE_LINK
-
-🔗 **Repository:** YOUR_REPOSITORY_LINK
-
----
-
-# 📚 Currently Learning
-
-```text
-HTML                 ████████████████████ 100%
-CSS                  ████████████████████ 100%
-JavaScript           ███████████████░░░░░  75%
-TypeScript           ████████████░░░░░░░░  60%
-React                ███████████░░░░░░░░░  55%
-Next.js              ████████░░░░░░░░░░░░  40%
-Backend Development  ██████░░░░░░░░░░░░░░  30%
-Database              ██████░░░░░░░░░░░░░░  30%
+</div>
