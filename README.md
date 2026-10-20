@@ -144,7 +144,7 @@ A workout-planning application designed to help users explore workouts and organ
 I'm always interested in learning, building projects, and connecting with other developers.
 
 - 💻 GitHub: [@hm-fullstackdeveloper](https://github.com/hm-fullstackdeveloper)
-- 💼 LinkedIn: [Connect with me](www.linkedin.com/in/tariqulislamhawlader)
+- 💼 LinkedIn:[Linkedin](www.linkedin.com/in/tariqulislamhawlader)
 - 📧 Email: [hmtarek004@gmail.com](mailto:hmtarek004@gmail.com)
 
 <div align="center">
