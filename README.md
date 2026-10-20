@@ -145,7 +145,7 @@ I'm always interested in learning, building projects, and connecting with other 
 
 - 💻 GitHub: [@hm-fullstackdeveloper](https://github.com/hm-fullstackdeveloper)
 - 💼 LinkedIn:[Linkedin](https://www.linkedin.com/in/tariqulislamhawlader)
-- 📧 Email: [hmtarek004@gmail.com](mailto:hmtarek004@gmail.com)
+- 📧 Email: [hmtarek004@gmail.com](https://hmtarek004@gmail.com)
 
 <div align="center">
 
